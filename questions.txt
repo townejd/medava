@@ -1,0 +1,4 @@
+1. In c++, there is the ability to use the "protected" keyword to allow inherited classes to access items within the base class that arent available outside of the class, does java have the same capability?
+2. I still dont fully understand the statement in the MedicineSchedule class: One(1), Two(2), Three(3), Four(4), Five(5), Uncontrolled(6);, is this declaring that when the name One is used that the number 1 is passed through the class constructor?
+3. In the instructions, you mentioned that the super keyword invokes functionality in the supertype, is it possible to invoke other functions or just the constructor? If you can invoke other functions, what does it look like?
+4. Can we raise exceptions in java like we can in python?
